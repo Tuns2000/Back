@@ -1,0 +1,8 @@
+{
+  "name": "Back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Tuns2000/Back.git",
+  "author": "Arseniy <arseniyb.2005@gmail.com>",
+  "license": "MIT"
+}
